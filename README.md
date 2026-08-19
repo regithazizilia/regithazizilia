@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Regitha! 👋</h1>
 
-![Regitha Zizilia](img/github_header-banner.png)
+![Regitha Zizilia](img/github-header-banner.png)
 
 <p align="center">
   :computer: Software Developer | :bar_chart: Data Analyst | :brain: Software and Documentation Enthusiast
